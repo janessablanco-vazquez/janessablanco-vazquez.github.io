@@ -721,6 +721,7 @@ h6,
 
 
 
+
 #ext_menu-11 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -807,6 +808,14 @@ h6,
 }
 #features4-1e P {
   color: #ffffff;
+}
+#header3-1f .mbr-section-title,
+#header3-1f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1f H3 {
+  color: #ffffff;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
 
