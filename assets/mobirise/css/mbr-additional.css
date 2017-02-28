@@ -860,6 +860,7 @@ h6,
 
 
 
+
 #ext_menu-11 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -926,6 +927,13 @@ h6,
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #header1-1b .mbr-section-lead {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#social-buttons4-1j .mbr-section-title,
+#social-buttons4-1j .btn-social {
+  color: #fff;
+}
+#social-buttons4-1j .mbr-section-title {
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #content8-1d .mbr-section-title,
