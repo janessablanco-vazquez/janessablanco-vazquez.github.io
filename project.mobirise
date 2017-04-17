@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Janessa Blanco",
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1428,7 +1428,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/album-cover-2-2000x10000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/album-cover-2-2000x10004.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1444,7 +1444,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/final-build-2000x14281.jpg",
+                "image": "@PROJECT_PATH@/assets/images/final-build-2000x14285.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1459,7 +1459,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/janessa-blanco-perspective-rough-draft-2000x13332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/janessa-blanco-perspective-rough-draft-2000x13336.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1549,7 +1549,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/janessa-blanco-composite-2000x21033.jpg",
+                "image": "@PROJECT_PATH@/assets/images/janessa-blanco-composite-2000x21037.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
