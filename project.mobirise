@@ -1428,7 +1428,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/album-cover-2-2000x10004.jpg",
+                "image": "@PROJECT_PATH@/assets/images/album-cover-2-2000x10008.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1444,7 +1444,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/final-build-2000x14285.jpg",
+                "image": "@PROJECT_PATH@/assets/images/final-build-2000x14289.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1459,7 +1459,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/janessa-blanco-perspective-rough-draft-2000x13336.jpg",
+                "image": "@PROJECT_PATH@/assets/images/janessa-blanco-perspective-rough-draft-2000x133310.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1549,7 +1549,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/janessa-blanco-composite-2000x21037.jpg",
+                "image": "@PROJECT_PATH@/assets/images/janessa-blanco-composite-2000x210311.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1809,7 +1809,7 @@
           },
           "title": "♥Janessa Blanco♥",
           "text": "\"Your only limit is you...\".",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Take a look...</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Take a look...</a> "
         },
         {
           "_tags": [
