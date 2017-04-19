@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Janessa Blanco",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1428,7 +1428,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/album-cover-2-2000x100012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/album-cover-2-2000x1000.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1444,7 +1444,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/final-build-2000x142813.jpg",
+                "image": "@PROJECT_PATH@/assets/images/final-build-2000x1428.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1459,7 +1459,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/janessa-blanco-perspective-rough-draft-2000x133314.jpg",
+                "image": "@PROJECT_PATH@/assets/images/janessa-blanco-perspective-rough-draft-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1549,7 +1549,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/janessa-blanco-composite-2000x210315.jpg",
+                "image": "@PROJECT_PATH@/assets/images/janessa-blanco-composite-2000x2103.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2255,6 +2255,18 @@
             ".mbr-section-title, p": {
               "text-align": "right",
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_tags": [
@@ -2263,30 +2275,35 @@
           "_name": "content8",
           "_anchor": "content8-1w",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1254.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlayColor": "#553982",
             "showTitle": true,
             "showCaption": true
           },
-          "title": "BACKGROUND VIDEO",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "title": "Adobe Premiere",
+          "caption": "This page consists of my recent works in the program known as Adobe Premiere...&nbsp;"
         },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
             }
           },
           "_tags": [
@@ -2296,12 +2313,12 @@
           "_anchor": "header3-1x",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
+            "paddingBottom": "1",
+            "bgColor": "#8f8997",
             "showMeta": true
           },
-          "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "Recent Works!",
+          "meta": ""
         },
         {
           "_inherit": "msg-box5",
@@ -2309,16 +2326,23 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            }
+          },
           "_anchor": "msg-box4-1y",
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-11-2000x1333.jpg",
+            "bgColor": "#8f8997",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -2338,7 +2362,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=ZgjO_-aZFMQ",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -2349,9 +2373,9 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH YOUTUBE VIDEO",
+          "title": "Believer Contest Film...",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Check It Out!</a>"
         },
         {
           "_tags": [

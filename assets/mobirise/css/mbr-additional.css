@@ -921,6 +921,9 @@ h6,
 }
 
 
+
+
+
 #ext_menu-1u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -988,9 +991,28 @@ h6,
   text-align: right;
   color: #fff;
 }
+#content8-1w .mbr-section-title {
+  text-align: center;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#content8-1w P {
+  text-align: center;
+}
+#content8-1w DIV {
+  color: #ffffff;
+  text-align: center;
+}
 #header3-1x .mbr-section-title,
 #header3-1x .mbr-section-subtitle {
   text-align: center;
+}
+#header3-1x H3 {
+  color: #ffffff;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#msg-box4-1y H3 {
+  color: #ffffff;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #contacts1-1v STRONG {
   color: #ffffff;
