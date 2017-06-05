@@ -924,6 +924,7 @@ h6,
 
 
 
+
 #ext_menu-1u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1011,6 +1012,10 @@ h6,
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #msg-box4-1y H3 {
+  color: #ffffff;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#msg-box4-20 H3 {
   color: #ffffff;
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
